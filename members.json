@@ -54,20 +54,5 @@
 		"major": "Computer Science",
 		"age": "18",
 		"github_handle": "voltomeyer"
-	{
-		"name": "Michael Meyer",
-		"netid": "mnmeyer2",
-		"grade": "Freshman",
-		"major": "Computer Science",
-		"age": "18",
-		"github_handle": "voltomeyer"
-	},
-	{
-		"name": "Kevin Chang",
-		"netid": "kchang33	",
-		"grade": "Freshman",
-		"major": "Computer Science",
-		"age": "18",
-		"github_handle": "kchang33"
 	},
 ]
